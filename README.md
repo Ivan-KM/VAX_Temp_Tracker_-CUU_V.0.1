@@ -1,0 +1,2 @@
+# IoT-Based-Real-Time-Temperature-Monitoring-and-Alert-System-for-Vaccine-Cold-Chain-Management-
+This project is an IoT-based system that monitors vaccine storage temperatures in real time and sends alerts via SMS or mobile app when they go outside the safe range (2°C–8°C). It uses sensors, cloud connectivity, and a dashboard to support quick response, ensure safe storage, and reduce vaccine wastage.
