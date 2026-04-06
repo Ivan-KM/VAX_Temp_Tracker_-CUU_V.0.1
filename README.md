@@ -59,3 +59,6 @@ Machine learning prediction model
 Web dashboard with analytics
 Mobile application
 Alert system (real-time + predictive)lementation
+
+Tinkercad Sumulation Link
+https://www.tinkercad.com/things/aEamlKJULS9-vax-track/editel?sharecode=ApA8drkSKtTM6_Ja3CRju9G8B8pjFrUq7_zSNrQnu10
