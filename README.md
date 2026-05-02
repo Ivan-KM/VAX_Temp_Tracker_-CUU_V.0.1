@@ -1,5 +1,24 @@
 # IoT-Based-Real-Time-Temperature-Monitoring-and-Alert-System-for-Vaccine-Cold-Chain-Management-
 This project is an IoT-based system that monitors vaccine storage temperatures in real time and sends alerts via SMS or mobile app when they go outside the safe range (2°C–8°C). It uses sensors, cloud connectivity, and a dashboard to support quick response, ensure safe storage, and reduce vaccine wastage.
+## To run the Project
+---
+### Run the Frontend
+1. Open the vaxtrack in terminal.
+2. type code . (to open in vscode)
+3. open the vscode terminal and cd into the frontend folder
+4. type "npm install" to install the packages
+5. then npm start (to start the UI)
+6. it should on port localhost:3000
+
+
+#### Run the backend.
+1. Open the project in terminal,
+2. Activate your virtual enviroment
+3. cd in the backend folder
+4. pip install -r requirements.txt
+5. pip install dotenv
+6. uvicorn app.main:app --reload
+---
 
 Project Scope
 The system integrates IoT hardware, cloud computing, backend services, and machine learning to provide real-time monitoring, prediction, visualization, and alerting for vaccine cold chain management.
